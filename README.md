@@ -7,7 +7,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerin0411&count_private=true&show_icons=true&theme=buefy)
 
 ### 💻Tech Stack📚
-<!--
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>&nbsp;&nbsp;<br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp;&nbsp;
 <br>
@@ -16,24 +15,6 @@
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&nbspAws&logoColor=white"/></a>&nbsp;&nbsp;
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/></a>
--->
-
-[HTML5](https://img.shields.io/badge/-HTML5-d13a11?style=for-the-badge&logo=html5&logoColor=ffffff)
-[CSS3](https://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&logo=css3)
-[JavaScript](https://img.shields.io/badge/-JavaScript-%23f7df1c?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23f7df1c&color=%23ffce5a)
-[Vue.js](https://img.shields.io/badge/-Vue.js-3fba79?style=for-the-badge&logo=vue.js&logoColor=ffffff)
-[React.js](https://img.shields.io/badge/-React.js-59d8ff?style=for-the-badge&logo=react&logoColor=000000)
-<br>
-[Java](https://img.shields.io/badge/-Java-b30000?style=for-the-badge&logo=java&logoColor=ffffff)
-[JSP](https://img.shields.io/badge/-JSP-%23f7df1c?style=for-the-badge&logo=java&logoColor=ff0000&labelColor=%2381b7ccc&color=%2381b7cc)
-[MySQL](https://img.shields.io/badge/-mysql-487aa1?style=for-the-badge&logo=mysql&logoColor=ffffff)
-[Python](https://img.shields.io/badge/-Python-21649c?style=for-the-badge&logo=python&logoColor=ffdb12)
-[Jupyter Notebook](https://img.shields.io/badge/-jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=e37100)
-<br>
-[Unity](https://img.shields.io/badge/-unity-222222?style=for-the-badge&logo=unity&logoColor=ffffff)
-[AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=ffffff)
-[Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-[Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 </div>
 
