@@ -4,8 +4,7 @@
 
 <br>
 
-![Chaerin's GitHub stats](https://github.com/chaerin0411/github-stats-transparent/blob/output/generated/overview.svg) ![Top Langs](https://github.com/chaerin0411/github-stats-transparent/blob/output/generated/languages.svg)
-
+![Chaerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerin0411&count_private=true&show_icons=true&theme=buefy)
 
 ### 💻Tech Stack📚
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp;&nbsp;
