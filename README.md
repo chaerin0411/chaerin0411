@@ -3,7 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=🍒ChaerinJeon🍒&fontSize=65&fontColor=FFFFFF)
 <br>
 
-![Chaerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerin0411&count_private=true&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin0411&layout=compact)](https://github.com/chaerin0411/github-readme-stats)
+![Chaerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerin0411&count_private=true&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin0411&layout=compact)](https://github.com/chaerin0411/github-readme-stats)
 <br>
   
 ### 💻Tech Stack📚
