@@ -4,9 +4,11 @@
 <br>
 
 ![Chaerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerin0411&count_private=true&show_icons=true&theme=buefy)
+![Chaerin's GitHub stats](https://github.com/chaerin0411/github-stats-transparent/blob/output/generated/overview.svg)
 <br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin0411)](https://github.com/chaerin0411/github-readme-stats)
+![Top Langs](https://github.com/chaerin0411/github-stats-transparent/blob/output/generated/languages.svg)
 <br>
   
 ### 💻Tech Stack📚
