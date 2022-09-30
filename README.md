@@ -4,9 +4,6 @@
 <br>
 
 ![Chaerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerin0411&count_private=true&show_icons=true&theme=buefy)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin0411&layout=compact)](https://github.com/chaerin0411/github-readme-stats)
--->
 <br>
   
 ### 💻Tech Stack📚
@@ -46,9 +43,7 @@
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
 </div>
-
 <br>
 
 ## IT's ME!
@@ -66,7 +61,7 @@
 
 ### 2021
 - TRIP: 항공권 예약과 여행지 정보를 한번에 제공하는 웹 사이트
-- 빅데이터 분석: Jupyter Notebook을 이용한 서울시 지하철호선별 역별 승하차 인원 정보 분석하였다. 승하차 인원 정보가 많은 역에 프렌차이즈 스타벅스, 투썸플레이스, 파리바게트, 뚜레쥬르의 서울 입지분포를 분석하고 서울시 인구분포 관계 분석
+- 빅데이터 분석: Jupyter Notebook을 이용한 서울시 지하철호선별 역별 승하차 인원 정보 분석과, 승하차 인원 정보가 많은 역에 프렌차이즈 스타벅스, 투썸플레이스, 파리바게트, 뚜레쥬르의 서울 입지분포를 분석와 서울시 인구분포 관계 분석
 - 영화 소개 및 순위 앱: 영화순위별, 평점순별로 영화를 검색할 수 있는 어플리케이션
 - 청소로봇: 장애물감지, 추락방지, 충돌방지, 바닥감지, 빛 감지, 전면감지, 먼지감지, 레이저거리측정, 각도, 접촉, 모서리감지 등 다양한 센서들을 활용한 스스로 청소해주는 로봇
 - 대중교통 비접촉 생체인식 및 자동 발열감지 시스템: 버스나 지하철과 같은 대중교통에서 비접촉으로 생체를 인식하고 온도를 측정하는 자동 발열 감지 시스템
@@ -76,7 +71,7 @@
 
 ### 2020
 - 디즈니 공주 소개 페이지: HTML, CSS, JavaScript, JQuery를 활용하여 만든 디즈니 공주 소개 페이지
-- 해리포터 소개 페이지: HTML, CSS, JavaScript, JQuery를 활용하여 만든 첫 개발 페이지
+- 해리포터 소개 페이지: HTML, CSS, JavaScript, JQuery를 활용하여 만든 첫 해리포터 소개 페이지
 
 ### Experience
 ### 2022
