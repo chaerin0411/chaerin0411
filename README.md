@@ -71,7 +71,8 @@
 
 ### 2020
 - 디즈니 공주 소개 페이지: HTML, CSS, JavaScript, JQuery를 활용하여 만든 디즈니 공주 소개 페이지
-- 해리포터 소개 페이지: HTML, CSS, JavaScript, JQuery를 활용하여 만든 첫 해리포터 소개 페이지
+- 해리포터 소개 페이지: HTML, CSS, JavaScript, JQuery를 활용하여 만든 해리포터 소개 페이지
+- 자기소개 페이지: HTML, CSS, JavaScript, JQuery를 활용하여 만든 첫 개발 페이지
 
 ### Experience
 ### 2022
