@@ -51,7 +51,8 @@
 <!--
 ## Profile
 ### Education
-2020.03 ~ : Dongyang Mirae University, Computer Software Engineering
+2020.03 ~ 2023.02 : Dongyang Mirae University, Computer Software Engineering
+2017.03 ~ 2020.02 : Gyeongin High School, Liberal Arts
 
 ### Projects
 ### 2022
