@@ -2,10 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=🍒ChaerinJeon🍒&fontSize=65&fontColor=FFFFFF)
 <br>
-
+<!--
 ![Chaerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerin0411&count_private=true&show_icons=true&theme=buefy)
 <br>
-
+-->
 ### 💻Tech Stack📚
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/jsp-3f7df1c?style=for-the-badge&logo=jsp&logoColor=ff0000">
